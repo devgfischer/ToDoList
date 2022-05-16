@@ -4,7 +4,7 @@
 
 ## Resumo do Projeto:
 
-Consiste na criação de uma aplicação para gerenciar uma lista de tarefas - Cadastrar - Buscar - Atualizar - Excluir.
+Consiste na criação de uma aplicação para gerenciar uma lista de tarefas • Cadastrar • Buscar • Atualizar • Excluir.
 
 Com ela, criei uma API REST (Swagger) utilizando C# e .NET 6 com Dapper, também utilizei Microsoft SQL Server como Banco de Dados.
 
